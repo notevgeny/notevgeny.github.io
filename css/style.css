@@ -1,0 +1,19 @@
+* {
+ font-family: "montserrat", sans-serif;
+ margin: auto;
+}
+.container {
+ width: 1170px;
+ height: 620px;
+ padding: 20px 0;
+ text-align: center;
+ background-color: #312785;
+}
+.container h1 {
+ color: grey;
+}
+.container a {
+ display: block;
+ margin: 20px 0;
+ color: #ffff;
+}
